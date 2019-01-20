@@ -16,7 +16,7 @@ In the project directory please run `yarn install`, you can then run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Project
+## Project
 
 You can find the project at this location without running the script!
 https://stevenhaa.github.io/Shopify-Web-Engineer-Intern-2019/
