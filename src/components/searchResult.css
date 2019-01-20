@@ -1,0 +1,35 @@
+.results {
+    height: 40vh;
+    overflow: auto;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+tr {
+    display: flex;
+    align-items: baseline;
+}
+td {
+    text-align: left;
+    padding-left: 10px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+.starIcon {
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.title {
+    flex: 1 1 40%;
+}
+
+.description {
+    flex: 1 1 60%;
+    padding-right: 20px;
+}
